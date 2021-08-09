@@ -1,0 +1,19 @@
+{
+    "name": "e64f/money2text",
+    "description": "Convertor Money to Text",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "e64f\\money2text\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Valeriy Matvienko",
+            "email": "VMatvienko@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
